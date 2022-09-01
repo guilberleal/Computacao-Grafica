@@ -1,2 +1,0 @@
-# Computacao-Grafica
-trabalhos feitos
